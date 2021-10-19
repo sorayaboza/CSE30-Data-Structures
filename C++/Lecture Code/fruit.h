@@ -1,0 +1,1 @@
+void printSkinThickness(fruit f);
