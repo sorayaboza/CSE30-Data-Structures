@@ -1,1 +1,1 @@
-# CSE30-Data-Structures
+# CSE30: Data Structures
